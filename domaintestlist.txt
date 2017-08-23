@@ -1,0 +1,6 @@
+example.com
+microsoft.com
+google.com
+amazon.com
+andy.com
+seansawesomewebsite.com
